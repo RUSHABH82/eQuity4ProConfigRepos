@@ -3,8 +3,6 @@ equity4profit:
     S40:
       - HDFCBANK
       - ICICIBANK
-      - HDFCBANK
-      - ICICIBANK
       - KOTAKBANK
       - HDFCAMC
       - BAJFINANCE
@@ -42,8 +40,6 @@ equity4profit:
       - BANKBEES
       - GOLDBEES
     S40NEXT:
-      - 3MINDIA
-      - ASTRAZEN
       - 3MINDIA
       - ASTRAZEN
       - AVANTIFEED
