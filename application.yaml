@@ -1,6 +1,13 @@
 equity4profit:
   categories:
     S40:
+# Starting personal Portfolio for testing...
+      - BANKINDIA
+      - BHEL
+      - COALINDIA
+      - FEDERALBANK
+      - JKTYRE
+# Ending personal Portfolio for testing...
       - HDFCBANK
       - ICICIBANK
       - KOTAKBANK
